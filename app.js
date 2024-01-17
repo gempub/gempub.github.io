@@ -33,7 +33,7 @@ import { getDatabase, ref, push} from 'https://www.gstatic.com/firebasejs/9.8.3/
 
 //  Web app's Firebase configuration
 const firebaseApp = initializeApp({
-  apiKey: "AIzaSyDBDOHPRPK1DUOlWy1j1wiVOfCoY0hzM2o",
+  apiKey: "zzz",
   authDomain: "jlcamilweb.firebaseapp.com",
   projectId: "jlcamilweb",
   storageBucket: "jlcamilweb.appspot.com",
